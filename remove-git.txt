@@ -1,0 +1,3 @@
+mac: rm -rf .git
+windows: rmdir -Force -Recurse .git
+windows: rd /s /q .git
